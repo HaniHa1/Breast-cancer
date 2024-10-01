@@ -1,2 +1,3 @@
 # Breast-cancer
-Classification of breast cancer data
+
+Binary classification of breast cancer data
